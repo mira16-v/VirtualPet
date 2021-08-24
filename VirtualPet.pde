@@ -3,7 +3,7 @@ void setup(){
   size(600,600); 
 }
 void draw(){
-  System.out.println(mouseX + ", " + mouseY);
+  //System.out.println(mouseX + ", " + mouseY);
   fill(252,185,238);
   ellipse(300, 300, 120, 100);
   ellipse(276, 250, 46, 110);
