@@ -9,7 +9,7 @@ void draw(){
   noStroke(); 
     ellipse(300, 300, 120, 100);
     ellipse(276, 250, 46, 110);
-    fill(242, 164, 227);
+  fill(242, 164, 227);
     ellipse(276, 250, 26, 90);
 
   fill(242, 164, 227);
