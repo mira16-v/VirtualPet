@@ -6,14 +6,15 @@ void draw(){
   //System.out.println(mouseX + ", " + mouseY);
    
 
- fill(252,185,238);
-  noStroke(); 
-    ellipse(300, 300, 120, 100);
- fill(252,185,238);
+fill(252,185,238);
   noStroke();     
     ellipse(276, 250, 46, 110);
  fill(242, 164, 227);
     ellipse(276, 250, 26, 90);
+fill(252,185,238);
+  noStroke(); 
+    ellipse(300, 300, 120, 100);
+ 
 fill(242, 164, 227);
     ellipse(330, 254, 46, 55);
     
